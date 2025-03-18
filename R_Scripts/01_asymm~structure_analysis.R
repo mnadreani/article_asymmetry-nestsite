@@ -2,7 +2,7 @@
 # Choice or constraint? Interaction between the nest and external structures predicts nest's architecture
 
 # Author: Nicolas M. Adreani
-# Goal: Does having a structure in contact with the nest have an effect on it's asymmetric architecture?
+# Goal: Does having a structure in contact (or incorporated in) with the nest have an effect on it's asymmetric architecture?
 
 
 ##### 01 Require packages #####
